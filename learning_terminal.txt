@@ -1,0 +1,25 @@
+## Learning terminal shortcuts
+
+# Movement 
+
+Ctrl + a - go to beginning of the line
+Ctrl + e - go to end of the line
+
+# Editting
+
+Ctrl + u - cut from start of the line
+Ctrl + k - cut from end of the line
+
+# Others
+
+   	Ctrl + r - search history
+
+
+
+
+
+{
+
+}
+
+
