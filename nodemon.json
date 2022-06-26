@@ -1,0 +1,6 @@
+{
+  "execMap": {
+    "js": "npm run build && npm run start"
+  },
+  "ignore": ["dist"]
+}

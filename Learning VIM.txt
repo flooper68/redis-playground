@@ -1,0 +1,33 @@
+My Vim Commands
+
+Movement
+ j - down
+ k - up
+ l - right
+ h - left
+
+ w - forward by a word
+ b - backwards by a word
+
+
+Editing
+ yy - yank a line (copy to buffer)
+ p - paste a line one line below
+ dd - delete a line and put to buffer 
+ u - undo last command
+
+Visual line mode - move to higlight by lines
+ shift + v - higlight line 
+ 
+Visual mode - move to highlight stuff 
+ v - start higlight
+
+Insert mode 
+ escape - leave
+ ctrl + c - leave
+ ctrl + [ - leave 
+
+
+export function test(param: string){
+    console.log(`test`)
+}
